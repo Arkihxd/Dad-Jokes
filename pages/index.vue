@@ -1,6 +1,8 @@
 <template>
   <div>
-    <Default/>
+    <h2>
+      Welcome to the best cony dad jokes app on the web
+    </h2>
   </div>
 </template>
 

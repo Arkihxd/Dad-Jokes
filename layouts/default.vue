@@ -1,9 +1,6 @@
 <template>
   <div class="container">
     <AppHeader/>
-    <h2>
-      Welcome to the best cony dad jokes app on the web
-    </h2>
     <nuxt/>
   </div>
 </template>
